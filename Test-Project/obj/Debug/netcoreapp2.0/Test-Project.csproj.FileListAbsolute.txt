@@ -1,0 +1,11 @@
+/Users/jackthomson/Desktop/Test-Project/Test-Project/bin/Debug/netcoreapp2.0/Test-Project.deps.json
+/Users/jackthomson/Desktop/Test-Project/Test-Project/bin/Debug/netcoreapp2.0/Test-Project.runtimeconfig.json
+/Users/jackthomson/Desktop/Test-Project/Test-Project/bin/Debug/netcoreapp2.0/Test-Project.runtimeconfig.dev.json
+/Users/jackthomson/Desktop/Test-Project/Test-Project/bin/Debug/netcoreapp2.0/Test-Project.dll
+/Users/jackthomson/Desktop/Test-Project/Test-Project/bin/Debug/netcoreapp2.0/Test-Project.pdb
+/Users/jackthomson/Desktop/Test-Project/Test-Project/obj/Debug/netcoreapp2.0/Test-Project.csprojResolveAssemblyReference.cache
+/Users/jackthomson/Desktop/Test-Project/Test-Project/obj/Debug/netcoreapp2.0/Test-Project.csproj.CoreCompileInputs.cache
+/Users/jackthomson/Desktop/Test-Project/Test-Project/obj/Debug/netcoreapp2.0/Test-Project.AssemblyInfoInputs.cache
+/Users/jackthomson/Desktop/Test-Project/Test-Project/obj/Debug/netcoreapp2.0/Test-Project.AssemblyInfo.cs
+/Users/jackthomson/Desktop/Test-Project/Test-Project/obj/Debug/netcoreapp2.0/Test-Project.dll
+/Users/jackthomson/Desktop/Test-Project/Test-Project/obj/Debug/netcoreapp2.0/Test-Project.pdb
